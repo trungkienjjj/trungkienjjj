@@ -1,23 +1,34 @@
-### 👋 Hi, I'm Kiên (Nguyen Tran Trung Kien)
+# Nguyen Tran Trung Kien
 
-<p>I am a third-year Artificial Intelligence student at VNU-HCM University of Science, with a strong passion for solving complex problems using Machine Learning and Data Science. My primary interests lie in Natural Language Processing (NLP) and building robust AI models from the ground up.</p>
+Final-year Artificial Intelligence undergraduate at **VNU-HCM University of Science (HCMUS)**, expected to graduate in 2027. I build and evaluate systems across multimodal AI, Vietnamese OCR, NLP, data engineering, and backend development.
 
----
+- GPA: **3.81/4.00**
+- Ranked **1st in the AI major by semester GPA**, Semester 1 AY 2023-2024
+- HCMUS merit-based scholarship, Semester 1 AY 2023-2024
+- IELTS Academic **6.5** (Reading 8.5)
+- Open to AI/ML, NLP, computer vision, data, backend, MLOps, and AI quality internships
 
-<p align="left">
-  <strong>🔧 Technologies & Tools I Use:</strong><br>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-  <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-</p>
+## Selected work
 
----
+| Project | What I built | Evidence |
+|---|---|---|
+| DeepSeek-OCR Vietnamese adaptation | 16-bit LoRA fine-tuning and a comparative OCR evaluation suite | Mean CER **38.49% -> 12.15%** on 1,446 test images |
+| Historical Vietnamese OCR dataset | Semi-automatic text-line, box, and crop preparation pipeline | **8,687** clean OCR lines from 240 pages |
+| HR Analytics from Scratch | NumPy-only preprocessing, logistic regression, and SMOTE | Recall **0.6316**, F1 **0.4785** |
+| VietSport Database | SQL Server schema, constraints, triggers, and stored procedures | Portfolio version of a **25-table** team project |
+| Weather Monitor | Scheduled ingestion and cloud-backed weather data platform | FastAPI, PostgreSQL/Supabase, Redis, Docker |
 
-<p align="left">
-  <strong>📫 How to reach me:</strong><br>
-  <strong>Email:</strong> nttkien080925@gmail.com <br>
-  <strong>LinkedIn:</strong> www.linkedin.com/in/kiên-nguyễn-trần-trung-334457204
-</p>
+## Current research
+
+I am prototyping an agentic temporal RAG pipeline with explicit planning, Neo4j graph retrieval, FAISS fallback, evidence verification, and calibrated abstention. This is ongoing research; completed benchmark results are not claimed yet.
+
+## Stack
+
+`Python` `PyTorch` `Transformers` `PEFT/LoRA` `NumPy` `scikit-learn` `FastAPI` `SQL` `Neo4j` `FAISS` `ChromaDB` `Docker` `TypeScript` `React`
+
+## Links
+
+- Portfolio: [trungkienjjj.github.io](https://trungkienjjj.github.io)
+- LinkedIn: [linkedin.com/in/trungkienjjj](https://linkedin.com/in/trungkienjjj)
+- Kaggle: [kaggle.com/nguyentrantrungkien](https://www.kaggle.com/nguyentrantrungkien)
+- Email: [nttkien080925@gmail.com](mailto:nttkien080925@gmail.com)
